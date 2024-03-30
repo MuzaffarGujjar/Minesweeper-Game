@@ -1,8 +1,3 @@
-Minwdniewnfpow
-fnfruiefre
-dnewoneo
-cnwejkncew
-wefnjewkvnf
-]pwnfifw
-fkfovnf
-nreonf\]fngfreo
+MineSweeper Game
+MineSweeper Game in HTML CSS and JAVASCRIPT
+Must Try
